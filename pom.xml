@@ -11,4 +11,5 @@
         <maven.compiler.target>19</maven.compiler.target>
         <exec.mainClass>SchachGame</exec.mainClass>
     </properties>
+    <name>SchachGame_12</name>
 </project>
