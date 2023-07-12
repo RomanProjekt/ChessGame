@@ -3,4 +3,5 @@
 Derzeitige Programmierung:
 - SchachField
 - Model: Schachfiguren, Bauer, König, Dame, Springer, Läufer, Turm
-- Bewegungslogik: Bewegungslogik, Logik der einzel Figuren
+- Bewegungslogik-klassen: Bewegungslogik, Logik der einzelnen Figuren 
+- Bewegung des Bauern auf der Schachbrett 
