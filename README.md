@@ -9,4 +9,6 @@ Derzeitige Programmierung:
 Todo:
 - Ausprogrammieren der Bewegungslogik von den anderen Figuren z.B.: König, Dame...
 - Schlaglogik der einzelnen Figuren
+- Bei Gewinn der Spiels - Wiederholungslogik
+- ...
 
