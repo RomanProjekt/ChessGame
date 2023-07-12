@@ -1,1 +1,1 @@
-# Aktive_Java_Projekte
+# Schachgame - Aktives aktuelles Projekt 
