@@ -12,3 +12,6 @@ Todo:
 - Bei Gewinn der Spiels - Wiederholungslogik
 - ...
 
+Erweiterung:
+-- Schachfiguren über Drag and Drop bewegen
+
