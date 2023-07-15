@@ -13,5 +13,5 @@ Todo:
 - ...
 
 Erweiterung:
--- Schachfiguren über Drag and Drop bewegen
+- Schachfiguren über Drag and Drop bewegen
 
