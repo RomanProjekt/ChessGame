@@ -1,4 +1,5 @@
-# Schachgame - Aktives aktuelles Projekt 
+# Schachgame - Aktives aktuelles Projekt
+# Status: nicht abgeschlossen
 
 Um immer auf dem aktuellen Stand zu sein, verbessere ich meine derzeitigen IT-Kenntnisse und bringe mir neue 
 Programmiersprachen (z.B.: Typescript, C#) , sowie moderne Frameworks (z.B.: Spring Boot, Angular) und Restful 
