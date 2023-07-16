@@ -1,5 +1,9 @@
 # Schachgame - Aktives aktuelles Projekt 
 
+Um immer auf dem aktuellen Stand zu sein, verbessere ich meine derzeitigen IT-Kenntnisse und bringe mir neue 
+Programmiersprachen (z.B.: Typescript, C#) , sowie moderne Frameworks (z.B.: Spring Boot, Angular) und Restful 
+(mit Spring Boot) mit Bücher, Tutorials bei.
+
 Derzeitige Programmierung:
 - 2D - Schachbrett mit Swing, Java (SchachField)
 - Model: Schachfiguren, Bauer, König, Dame, Springer, Läufer, Turm
