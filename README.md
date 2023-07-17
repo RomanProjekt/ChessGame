@@ -1,9 +1,14 @@
-# Schachgame - Aktives aktuelles Projekt
+# ChessGame - Aktives aktuelles Projekt
 # Status: nicht abgeschlossen
 
 Um immer auf dem aktuellen Stand zu sein, verbessere ich meine derzeitigen IT-Kenntnisse und bringe mir neue 
 Programmiersprachen (z.B.: Typescript, C#) , sowie moderne Frameworks (z.B.: Spring Boot, Angular) und Restful 
 (mit Spring Boot) mit Bücher, Tutorials bei.
+
+Projektname: ChessGame
+Verwendete Technologien: Swing, Java
+IDE: Netbeans, Intellij
+
 
 Derzeitige Programmierung:
 - 2D - Schachbrett mit Swing, Java (SchachField)
