@@ -5,7 +5,8 @@ Um immer auf dem aktuellen Stand zu sein, verbessere ich meine derzeitigen IT-Ke
 Programmiersprachen (z.B.: Typescript, C#) , sowie moderne Frameworks (z.B.: Spring Boot, Angular) und Restful 
 (mit Spring Boot) mit Bücher, Tutorials bei.
 
-- Projektname: ChessGame
+
+Projektname: ChessGame
 - Verwendete Technologien: Swing, Java
 - IDE: Netbeans, Intellij
 
